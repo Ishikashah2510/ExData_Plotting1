@@ -1,3 +1,7 @@
+This repo has 4 r files and 4 png files for corresponding questions
+
+
+
 ## Introduction
 
 This assignment uses data from
